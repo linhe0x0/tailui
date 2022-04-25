@@ -1,2 +1,3 @@
-# tailwindui
-Beautiful UI components, crafted with Tailwind CSS
+# tailui
+
+Beautiful UI components based on React, crafted with Tailwind CSS.
